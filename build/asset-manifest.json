@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/intership/static/css/main.45ff912b.css",
+    "main.js": "/intership/static/js/main.f2de1b94.js",
+    "index.html": "/intership/index.html",
+    "main.45ff912b.css.map": "/intership/static/css/main.45ff912b.css.map",
+    "main.f2de1b94.js.map": "/intership/static/js/main.f2de1b94.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45ff912b.css",
+    "static/js/main.f2de1b94.js"
+  ]
+}

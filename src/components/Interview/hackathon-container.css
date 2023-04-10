@@ -1,0 +1,49 @@
+.hackathon {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.prestige-interview-challenge {
+  position: absolute;
+  top: 38px;
+  left: 2px;
+  font-size: var(--desktop-heading-5-h5-500-size);
+  font-weight: 500;
+  color: var(--celestial-grey-cg-700);
+  display: inline-block;
+  width: 275px;
+}
+.calendar-today-icon1 {
+  position: relative;
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.feb-2023- {
+  position: relative;
+  font-weight: 500;
+}
+.date1 {
+  position: absolute;
+  top: 114px;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  font-size: var(--desktop-body-2-b2-500-size);
+  font-family: var(--desktop-body-2-b2-500);
+}
+.hackathon-info {
+  position: absolute;
+  top: 532px;
+  left: 1021px;
+  width: 277px;
+  height: 132px;
+  text-align: left;
+  font-size: var(--desktop-heading-6-h6-400-size);
+  color: var(--celestial-grey-cg-400);
+  font-family: var(--desktop-heading-5-h5-500);
+}

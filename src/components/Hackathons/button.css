@@ -1,0 +1,23 @@
+/* All Submissions */
+.allSubmissions{
+width: 134px;
+height: 26px;
+
+/* Desktop/Heading 6/H6 500 */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 26px;
+/* identical to box height */
+text-align: center;
+
+/* Celestial Grey/CG 700 */
+color: #333333;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}

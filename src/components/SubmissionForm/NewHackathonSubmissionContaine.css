@@ -1,0 +1,28 @@
+.title-of-your {
+  position: relative;
+}
+.title-of-your-submission-wrapper {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  border: 1px solid var(--celestial-grey-cg-200);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-base);
+  align-items: center;
+  justify-content: flex-start;
+  font-size: var(--desktop-body-1-b1-400-size);
+  color: var(--celestial-grey-cg-400);
+  font-family: var(--desktop-body-1-b1-400);
+}
+.item7 {
+  width: 706px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  text-align: left;
+  font-size: var(--desktop-heading-6-h6-400-size);
+  color: var(--celestial-grey-cg-900);
+  font-family: var(--desktop-heading-6-h6-400);
+}
